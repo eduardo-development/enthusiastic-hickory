@@ -2,7 +2,7 @@
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
         "title": "Starter",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
